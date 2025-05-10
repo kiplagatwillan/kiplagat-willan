@@ -56,7 +56,7 @@ Currently preparing for my **industrial attachment (May–Sept 2025)**, I am act
 
 - **BSc. in Software Engineering** – Murang’a University of Technology  
 - Scored **76/84 points in KCSE**, showcasing academic excellence  
-- Specialization: Object-Oriented Programming, Artificial Intelligence, System Design
+- Specialization: Data structures and algorithms, Object-Oriented Programming, Artificial Intelligence, System Design
 
 ---
 
