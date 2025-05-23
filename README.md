@@ -14,7 +14,7 @@ I’m **Willan Kiplagat**, a passionate and purpose-driven **Software Engineerin
 
 From academic projects to independent prototypes, my focus has always been to **combine clean code, intelligent systems, and user-centric design** into products that matter.
 
-Currently preparing for my **industrial attachment (May–Sept 2025)**, I am actively contributing to open-source, sharpening my backend development skills, and exploring real-world AI applications in business intelligence.
+Currently on my **industrial attachment (May–Sept 2025)**, I am actively contributing to open-source, sharpening my backend development skills, and exploring real-world AI applications in business intelligence.
 
 ---
 
@@ -61,33 +61,26 @@ Currently preparing for my **industrial attachment (May–Sept 2025)**, I am act
 ---
 
 ## 🔍 What I'm Exploring Now
-Now
-💻 Technical Skills
- 
- 🎨 Front-end development with HTML, CSS, and JavaScript
 
-⚛️ Building dynamic UIs using React
+### 💻 Technical Skills
 
-🗄️ Database design and management with MySQL
-
-🌐 Server-side development and integration
-
-👨‍🏫 Teaching and mentoring in a bootcamp setting
-
-🤝 Soft Skills
-🗣️ Effective communication and presentation
-
-🧠 Problem-solving and critical thinking
-
-👥 Team collaboration and leadership
-
-🕐 Time management and productivity
-
-💡 Adaptability and continuous learning
-
-  
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Node.js](https://img.shields.io/badge/Server--Side-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Teaching](https://img.shields.io/badge/Bootcamp-Teaching-blueviolet?style=flat&logo=codeforces&logoColor=white)]()
 
 ---
+
+### 🤝 Soft Skills
+
+[![Communication](https://img.shields.io/badge/Communication-EF476F?style=flat&logo=googlechat&logoColor=white)]()
+[![Problem Solving](https://img.shields.io/badge/Problem--Solving-06D6A0?style=flat&logo=hackerrank&logoColor=white)]()
+[![Teamwork](https://img.shields.io/badge/Teamwork-FFD166?style=flat&logo=teams&logoColor=black)]()
+[![Time Management](https://img.shields.io/badge/Time--Management-118AB2?style=flat&logo=googlecalendar&logoColor=white)]()
+[![Adaptability](https://img.shields.io/badge/Adaptability-073B4C?style=flat&logo=dependabot&logoColor=white)]()
 
 ## 🌍 My Mission
 
