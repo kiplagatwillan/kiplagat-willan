@@ -63,7 +63,8 @@ Currently preparing for my **industrial attachment (May–Sept 2025)**, I am act
 ## 🔍 What I'm Exploring Now
 Now
 💻 Technical Skills
-🎨 Front-end development with HTML, CSS, and JavaScript
+ 
+ 🎨 Front-end development with HTML, CSS, and JavaScript
 
 ⚛️ Building dynamic UIs using React
 
