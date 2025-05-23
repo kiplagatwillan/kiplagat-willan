@@ -55,17 +55,36 @@ Currently preparing for my **industrial attachment (May–Sept 2025)**, I am act
 ## 🎓 Academic Highlights
 
 - **BSc. in Software Engineering** – Murang’a University of Technology  
-- Scored **76/84 points in KCSE**, showcasing academic excellence  
+- Scored **72/84 points in KCSE**, showcasing academic excellence  
 - Specialization: Data structures and algorithms, Object-Oriented Programming, Artificial Intelligence, System Design
 
 ---
 
 ## 🔍 What I'm Exploring Now
+Now
+💻 Technical Skills
+🎨 Front-end development with HTML, CSS, and JavaScript
 
-- 🤖 Building AI-based personal assistants using LLM APIs  
-- 🌐 RESTful backend systems in ASP.NET and Spring Boot  
-- 📈 Enhancing dashboards for BI using real-time data streams  
-- 📱 UI/UX enhancement through Tailwind CSS and Framer Motion  
+⚛️ Building dynamic UIs using React
+
+🗄️ Database design and management with MySQL
+
+🌐 Server-side development and integration
+
+👨‍🏫 Teaching and mentoring in a bootcamp setting
+
+🤝 Soft Skills
+🗣️ Effective communication and presentation
+
+🧠 Problem-solving and critical thinking
+
+👥 Team collaboration and leadership
+
+🕐 Time management and productivity
+
+💡 Adaptability and continuous learning
+
+  
 
 ---
 
@@ -83,6 +102,8 @@ I believe in lifelong learning and sharing knowledge — that’s why my GitHub 
 - Email: willankpl01@gmail.com  
 - Phone: +254 706 649 734  
 - LinkedIn: https://www.linkedin.com/in/willan-kiplagat-6a4096267
+- instagram: https://www.instagram.com/k.l_willan?utm_source=qr&igsh=ZmRiNjh0c3gyanFw
+- X: https://x.com/KiplagatWillan?t=mTd9WvNnZpfs9eWgvynBSw&s=08 
 
 ---
 
